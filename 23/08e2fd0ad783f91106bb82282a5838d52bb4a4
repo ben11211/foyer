@@ -1,0 +1,19 @@
+foyer-common/src/metrics.rs
+  s_c0abbf9b600025::t_2bbe642c57e8cf 294,298-299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2308e2fd0ad783f91106bb82282a5838d52bb4a4",
+  "prompts": {},
+  "sessions": {
+    "s_c0abbf9b600025": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94da5dc5-22db-4d57-8b08-5bb9e5d36502",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "ben11211 <nagengast@langchain.dev>"
+    }
+  }
+}
